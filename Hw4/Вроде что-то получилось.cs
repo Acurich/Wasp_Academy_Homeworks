@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace its_just_start
+namespace Academy
 {
     class Program
     {
