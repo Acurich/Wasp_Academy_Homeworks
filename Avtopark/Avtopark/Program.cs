@@ -61,9 +61,9 @@ namespace Avtopark
             this.nSur = nSur;
             cargo = new Dictionary<string, int>();
         }
-        public void changeDriver(string nameSurname)
+        public void changeDriver(string nSur)
         {
-            this.nSur = nameSurname;
+            this.nSur = nSur;
         }
         public void addGruz(string n, int ves2)
         {
