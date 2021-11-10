@@ -69,7 +69,7 @@ namespace Avtopark
         {
             cargo.Add(n, ves2);
         }
-        public void removeCargo(string n)
+        public void removeGruz(string n)
         {
             if (!cargo.Remove(n)) Console.WriteLine("Нет такого груза!");
         }
