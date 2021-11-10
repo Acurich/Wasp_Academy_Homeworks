@@ -73,7 +73,7 @@ namespace Avtopark
         {
             if (!cargo.Remove(n)) Console.WriteLine("Нет такого груза!");
         }
-        public void printCargo()
+        public void printGruz()
         {
             foreach (string k in cargo.Keys)
             {
