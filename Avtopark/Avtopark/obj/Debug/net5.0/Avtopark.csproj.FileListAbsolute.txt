@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.exe
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.deps.json
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.runtimeconfig.json
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.runtimeconfig.dev.json
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.dll
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\ref\Avtopark.dll
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\bin\Debug\net5.0\Avtopark.pdb
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.AssemblyInfo.cs
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.dll
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\ref\Avtopark.dll
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.pdb
+C:\Users\User\Desktop\project_1\c#\metro\Avtopark\Avtopark\obj\Debug\net5.0\Avtopark.genruntimeconfig.cache
