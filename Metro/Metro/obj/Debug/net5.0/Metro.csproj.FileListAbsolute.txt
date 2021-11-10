@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.exe
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.deps.json
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.runtimeconfig.json
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.runtimeconfig.dev.json
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.dll
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\ref\Metro.dll
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\bin\Debug\net5.0\Metro.pdb
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.AssemblyInfo.cs
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.dll
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\ref\Metro.dll
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.pdb
+C:\Users\User\Desktop\project_1\c#\metro\Metro\Metro\obj\Debug\net5.0\Metro.genruntimeconfig.cache
