@@ -22,7 +22,7 @@ namespace Metro
             Line line = new Line(name, color);
             l.Add(line);
         }
-        public Station FindStationByName(string name)
+        public Line AddRange(string name)
         {
             foreach (Line i in l)
             {
