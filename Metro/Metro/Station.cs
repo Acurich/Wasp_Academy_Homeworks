@@ -24,7 +24,7 @@ namespace Metro
         }
         public Station FindStationByName(string name)
         {
-            foreach (Line i in stations)
+            foreach (Line i in l)
             {
                 if (i.GetName() == name)
                 {
