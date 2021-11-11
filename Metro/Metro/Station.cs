@@ -22,17 +22,7 @@ namespace Metro
             Line line = new Line(name, color);
             l.Add(line);
         }
-        public Line AddRange(string name)
-        {
-            foreach (Line i in l)
-            {
-                if (i.GetName() == name)
-                {
-                    return i;
-                }
-            }
-            return null;
-        }
+        
         public void RemoveLine(string name)
         {
             foreach (Line i in l)
