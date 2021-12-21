@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wasp_academy", "wasp_academy\wasp_academy.csproj", "{787D1BFD-F0C6-4463-86C4-E0190A360798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787D1BFD-F0C6-4463-86C4-E0190A360798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787D1BFD-F0C6-4463-86C4-E0190A360798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787D1BFD-F0C6-4463-86C4-E0190A360798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787D1BFD-F0C6-4463-86C4-E0190A360798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594134B1-FFB0-4C61-B242-5128D010C142}
+	EndGlobalSection
+EndGlobal
