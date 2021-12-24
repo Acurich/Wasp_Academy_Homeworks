@@ -1,0 +1,133 @@
+﻿<Window x:Class="wasp_academy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wasp_academy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="perv" Content="1" HorizontalAlignment="Left" Height="62" Margin="54,44,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FFA2B423" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="vtor" Content="2" HorizontalAlignment="Left" Height="62" Margin="111,44,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF01A40B" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="tret" Content="3" HorizontalAlignment="Left" Height="62" Margin="171,44,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF31C8D4" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="chetv" Content="4" HorizontalAlignment="Left" Height="62" Margin="54,107,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FFD32DE2" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="pat" Content="5" HorizontalAlignment="Left" Height="62" Margin="113,106,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FFE82B76" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="shest" Content="6" HorizontalAlignment="Left" Height="62" Margin="171,106,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF5E7B5A" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="sem" Content="7" HorizontalAlignment="Left" Height="62" Margin="54,167,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF9435CC" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="vosem" Content="8" HorizontalAlignment="Left" Height="62" Margin="113,167,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FFBB6C37" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="devat" Content="9" HorizontalAlignment="Left" Height="62" Margin="171,167,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF3454D1" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="net" Content="⛌" HorizontalAlignment="Left" Height="62" Margin="54,228,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF345454" Click="Check">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="nol" Content="0" HorizontalAlignment="Left" Height="62" Margin="113,228,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FF987E8D" Click="Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="yes" Content="✓" HorizontalAlignment="Left" Height="62" Margin="171,228,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.5,0.5" Background="#FFECE3F1" Click="Check">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.112"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBox x:Name="vvod" HorizontalAlignment="Left" Height="31" Margin="54,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" Background="#FF978080" KeyDown="KeyDown"/>
+
+    </Grid>
+</Window>

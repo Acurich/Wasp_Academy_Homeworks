@@ -1,0 +1,16 @@
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.csproj.AssemblyReference.cache
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\MainWindow.g.cs
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\App.g.cs
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy_MarkupCompile.cache
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy_MarkupCompile.lref
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\bin\Debug\wasp_academy.exe.config
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\bin\Debug\wasp_academy.exe
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\bin\Debug\wasp_academy.pdb
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\MainWindow.baml
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.g.resources
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.Properties.Resources.resources
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.csproj.GenerateResource.cache
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.csproj.CoreCompileInputs.cache
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.exe
+C:\Users\rusho\OneDrive\Рабочий стол\wasp_academy\wasp_academy\obj\Debug\wasp_academy.pdb
